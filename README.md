@@ -21,8 +21,9 @@ A personal inventory management tool for Destiny 2 players. This application hel
    ```
 
 ## Requirements
-- Python 3.8+
+- Python 3.8+    
 - Destiny 2 Bungie API key (for future integration)
+neecs update
 
 ## Note
 This is a personal project and is not affiliated with Bungie. 
